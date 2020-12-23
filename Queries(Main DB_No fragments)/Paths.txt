@@ -1,0 +1,6 @@
+@E:\Study\4.1\DDB_Lab\Lab-1\Codes\QUERY\DB.sql;
+@E:\Study\4.1\DDB_Lab\Lab-1\Codes\QUERY\insert.sql;
+
+@E:\Study\4.1\DDB_Lab\Assignment\view_proc.sql;
+@E:\Study\4.1\DDB_Lab\Assignment\update.sql;
+@E:\Study\4.1\DDB_Lab\Assignment\Main.sql;
